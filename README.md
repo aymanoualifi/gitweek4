@@ -1,6 +1,7 @@
 # week 4 - doing some damage with git
 
 
-learning about conflits and how to resolve them.
+adding some bio information and description of my team
+
 
 
